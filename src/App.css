@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+@theme{
+    --color-main:rgb(15, 17, 17);
+    --color-menuHover:rgb(30, 32, 34);
+    --color-textColor:rgb(151, 152, 154);
+    --color-Mbutton:rgb(94, 106, 210);
+    --color-issue:rgb(26, 29, 56)
+}
